@@ -12,7 +12,8 @@
     /* 🔑 Path Alias */
     "baseUrl": ".",
     "paths": {
-      "@Components/*": ["src/components/*"]
+      "@Components/*": ["src/components/*"],
+      "@Pages/*": ["src/pages/*"]
     },
 
     /* Bundler mode */
