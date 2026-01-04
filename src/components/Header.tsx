@@ -1,5 +1,6 @@
 import { Layout, Tabs } from "antd";
 import { useNavigate } from "react-router-dom";
+import "./styles.css"; // Import the CSS file for custom styles
 
 const { Header } = Layout;
 
